@@ -4,3 +4,5 @@ aqui escrevi com o nano....
 
 colque algo nesta linha main...  nova ft
 
+Criando e fechando uma issue
+
